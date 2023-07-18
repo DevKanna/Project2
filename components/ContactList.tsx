@@ -4,13 +4,13 @@ import React from 'react'
 export default function ContactList() {
     const contacts = [
         {
-            uid: 1345675423765,
+            uid: 1,
             name: 'Kutty pili Gowtham',
             status: 'Just an extra ordinary teacher',
             imageUrl: 'https://avatars.githubusercontent.com/u/11613311?v=4',
         },
         {
-            uid: 287765432,
+            uid: 2,
             name: 'Speed Azlan',
             status: 'I ❤️ To Code and Teach!',
             imageUrl: 'https://avatars.githubusercontent.com/u/94738352?v=4',
